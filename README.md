@@ -1,2 +1,2 @@
-# SlingShot-2
-project
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
